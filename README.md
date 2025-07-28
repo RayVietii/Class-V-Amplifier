@@ -79,3 +79,5 @@ I_gain = pre_gain * total_transistor * Vcc_high * Icc_high;
 A is basically transistor that check if there even any signal. B is the threshold logic i said earlier. While C is the final check.
 
 C then passing it to D(pre_gain), and D is the Class A topology NPN common emitter, and then D passing it to high voltage area(total_transistor), which become Follower Emitter configuration.
+
+Ray Vietii 2025
