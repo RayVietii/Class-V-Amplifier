@@ -1,7 +1,5 @@
 # Class-V-Amplifier
 
-Here's my tests list table, it's undergo several iterations:
-
 8ohm test:
 ```
 1. Vcc = 5V
